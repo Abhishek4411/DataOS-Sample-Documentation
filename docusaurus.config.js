@@ -3,11 +3,11 @@ const config = {
   tagline: 'Enterprise Data Operating System',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-username.github.io',
-  baseUrl: '/dataos-docs-demo/',
+  url: 'https://abhishek4411.github.io',
+  baseUrl: '/DataOS-Sample-Documentation/',
 
-  organizationName: 'your-username',
-  projectName: 'dataos-docs-demo',
+  organizationName: 'Abhishek4411',
+  projectName: 'DataOS-Sample-Documentation',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -116,6 +116,7 @@ const config = {
       respectPrefersColorScheme: true,
     },
   },
+  trailingSlash: false,
 };
 
 module.exports = config;
